@@ -12,16 +12,15 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 ```
 👩‍⚕️ Background     : Medical Doctor
-📍 Location       : Copenhagen, Denmark (since 2019)
 🎥 Content Focus  : Health Tips, Travel, Expat Life
 🗣️ Languages      : Bahasa Indonesia, English, Learning Danish
 🌍 Origin         : Indonesia
 ```
 
-## 💼 What I Do
+## What I Do
 
 ### 🏥 Health Education
 ```
@@ -59,39 +58,27 @@
 
 ## 📊 Content Stats
 ```
-🎥 Videos Published    : 50+
-📝 Blog Posts         : 30+
-🎤 Webinars Hosted    : 10+
-🌍 Countries Visited  : 10+
-👥 Community Reach    : 1,000+
+Videos Published   : 50+
+Blog Posts         : 30+
+Webinars Hosted    : 10+
+Countries Visited  : 10+
+Community Reach    : 1,000+
 ```
 
 ## 🎯 Current Focus
 
-- 🎬 Creating health education content for Indonesian audience
-- ✈️ Documenting family travels across Scandinavia & Europe
-- 🤝 Collaborating with Indonesian doctors for health webinars
-- 📚 Building a resource hub for Indonesian expats in Europe
-- 🍳 Sharing fusion Indonesian-Scandinavian recipes
+- Creating health education content for Indonesian audience
+- Documenting family travels across Scandinavia & Europe
+- Collaborating with Indonesian doctors for health webinars
+- Building a resource hub for Indonesian expats in Europe
+- Sharing fusion Indonesian-Scandinavian recipes
 
 ## 🏆 Featured Content
 
-### 📝 Recent Blog Posts
+### Recent Blog Posts
 - [5 Tips for Family Health During Nordic Winter](https://journeymu.github.io/kesehatan/denmark/tips-kesehatan-musim-dingin/)
 - [Weekend Trip to Malmö: Complete Guide](https://journeymu.github.io/traveling/skandinavia/weekend-trip-ke-malmo/)
 - [Welcome to Journey to the Mu!](https://journeymu.github.io/update/selamat-datang-di-journey-to-the-mu/)
-
-### 🎤 Notable Webinars
-- **Healthy Nutrition for Busy Families** - Dec 2024
-- **Mental Health for Expats** - Nov 2024
-- **Winter Wellness in Nordic Countries** - Jan 2025
-
-## 💡 Fun Facts
-
-- 🌍 Explored 10+ European countries with family
-- 🍜 Love experimenting with Indonesian-Scandinavian fusion cooking
-- 📚 Regularly host health webinars with colleagues in Indonesia
-- 🏔️ Favorite Nordic activity: Summer hiking in the forest
 
 ## 💌 Let's Collaborate!
 
