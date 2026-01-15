@@ -2,49 +2,58 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Medical+Doctor+%F0%9F%A9%BA;Travel+Content+Creator+%E2%9C%88%EF%B8%8F;Based+in+Copenhagen+%F0%9F%87%A9%F0%9F%87%B0;Sharing+Health+%26+Adventures+%F0%9F%8C%8D" alt="Typing SVG" />
 
-# 👋 Halo! Saya Mumu
+# 👋 Hi, I'm Mumu!
 
-### Dokter Indonesia di Denmark | Content Creator
+### Medical Doctor | Content Creator | Copenhagen
+
+![Profile Views](https://komarev.com/ghpvc/?username=journeymu&color=blueviolet)
 
 </div>
 
 ---
 
-## 🌟 Siapa Saya?
+## 🌟 About Me
 ```
 👩‍⚕️ Background     : Medical Doctor
-📍 Location       : Copenhagen, Denmark (sejak 2019)
+📍 Location       : Copenhagen, Denmark (since 2019)
 🎥 Content Focus  : Health Tips, Travel, Expat Life
 🗣️ Languages      : Bahasa Indonesia, English, Learning Danish
+🌍 Origin         : Indonesia
 ```
 
 ## 💼 What I Do
 
 ### 🏥 Health Education
 ```
-✓ Webinar moderator & speaker
-✓ Health consultations untuk komunitas Indonesia
-✓ Evidence-based health content
+✓ Health webinar moderator & speaker
+✓ Medical consultations for Indonesian community in Denmark
+✓ Evidence-based health content creation
+✓ Collaborating with medical professionals in Indonesia
 ```
 
 ### ✈️ Content Creation
 ```
-✓ Travel vlogs & guides
-✓ Life in Denmark
-✓ Family recipes
-✓ Expat tips
+✓ Travel vlogs & destination guides
+✓ Expat life in Denmark
+✓ Family-friendly recipes
+✓ Health tips for families abroad
 ```
 
-## 📱 Social Media
+### 🤝 Community Building
+```
+✓ Supporting Indonesian expats in Europe
+✓ Bridging healthcare knowledge gaps
+✓ Cultural exchange content
+```
+
+## 📱 Find Me Online
 
 <div align="center">
 
-| Platform | Content Type | Link |
-|:--------:|:-------------|:----:|
-| 🎬 **YouTube** | Travel Vlogs, Health Tips | [Subscribe](https://youtube.com/@mumusfamily) |
-| 📸 **Instagram** | Daily Life, Photo Stories | [Follow](https://instagram.com/muthiafadhilah) |
-| 🧵 **Threads** | Quick Tips, Thoughts | [Connect](https://threads.net/@muthiafadhilah/) |
-| 🌐 **Website** | Blog, Webinar Archive | [Visit](https://journeymu.github.io) |
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mumusfamily)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muthiafadhilah)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@muthiafadhilah)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://journeymu.github.io)
 
 </div>
 
@@ -52,37 +61,61 @@
 ```
 🎥 Videos Published    : 50+
 📝 Blog Posts         : 30+
-🎤 Webinars Hosted    : 15+
-🌍 Countries Visited  : 20+
+🎤 Webinars Hosted    : 10+
+🌍 Countries Visited  : 10+
+👥 Community Reach    : 1,000+
 ```
 
 ## 🎯 Current Focus
 
-- 🎬 Creating health education content dalam Bahasa Indonesia
-- ✈️ Documenting family travels across Scandinavia
-- 🤝 Collaborating dengan dokter Indonesia untuk webinar
-- 📚 Building resource hub untuk Indonesian expats
+- 🎬 Creating health education content for Indonesian audience
+- ✈️ Documenting family travels across Scandinavia & Europe
+- 🤝 Collaborating with Indonesian doctors for health webinars
+- 📚 Building a resource hub for Indonesian expats in Europe
+- 🍳 Sharing fusion Indonesian-Scandinavian recipes
+
+## 🏆 Featured Content
+
+### 📝 Recent Blog Posts
+- [5 Tips for Family Health During Nordic Winter](https://journeymu.github.io/kesehatan/denmark/tips-kesehatan-musim-dingin/)
+- [Weekend Trip to Malmö: Complete Guide](https://journeymu.github.io/traveling/skandinavia/weekend-trip-ke-malmo/)
+- [Welcome to Journey to the Mu!](https://journeymu.github.io/update/selamat-datang-di-journey-to-the-mu/)
+
+### 🎤 Notable Webinars
+- **Healthy Nutrition for Busy Families** - Dec 2024
+- **Mental Health for Expats** - Nov 2024
+- **Winter Wellness in Nordic Countries** - Jan 2025
+
+## 💡 Fun Facts
+
+- 🌍 Explored 10+ European countries with family
+- 🍜 Love experimenting with Indonesian-Scandinavian fusion cooking
+- 📚 Regularly host health webinars with colleagues in Indonesia
+- 🏔️ Favorite Nordic activity: Summer hiking in the forest
 
 ## 💌 Let's Collaborate!
 
-Interested in:
-- 🎤 Health webinar collaboration
-- 🎥 Content creation partnership
-- ✍️ Guest blogging
-- 🗣️ Speaking opportunities
+I'm open to:
+- 🎤 Health webinar speaking & moderation
+- 🎥 Content creation partnerships
+- ✍️ Guest blogging opportunities
+- 🗣️ Speaking engagements on expat health & wellness
+- 🤝 Brand collaborations (health, travel, lifestyle)
 
-📧 **DM me on any platform!**
+**Reach out via DM on any platform or email!**
 
 ---
 
 <div align="center">
 
-### ✨ Latest from My Website ✨
+### ✨ Explore My Content ✨
 
-[🏥 Health Tips](https://journeymu.github.io/categories/#kesehatan) • [✈️ Travel Stories](https://journeymu.github.io/categories/#traveling) • [🇩🇰 Life in Denmark](https://journeymu.github.io/categories/#denmark)
+[🏥 Health Tips](https://journeymu.github.io/categories/#kesehatan) • [✈️ Travel Stories](https://journeymu.github.io/categories/#traveling) • [🇩🇰 Life in Denmark](https://journeymu.github.io/categories/#denmark) • [🎤 Webinars](https://journeymu.github.io/webinar/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=journeymu&color=blueviolet)
+---
 
-*Making health knowledge accessible & inspiring adventures* 🌍
+*Making health knowledge accessible & inspiring adventures, one story at a time* 🌍
+
+**🌟 Journey to the Mu - Where Medicine Meets Adventure**
 
 </div>
